@@ -4,6 +4,7 @@
         background-color: hsl(257, 40%, 49%);
         background-size: cover;
         background-repeat: no-repeat;
+        max-height: 100vh;
     }
     .principal{
         display: flex;
@@ -21,6 +22,7 @@
 
     .apresentacao{
         width: 100%;
+        max-width: 300px;
         margin-left: 0;
     }
     
